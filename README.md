@@ -21,6 +21,9 @@ This project requires the following:
 ## Design
 The game's design includes colorful and engaging visual motifs to capture children's attention and facilitate their understanding. The arrangement and number of cards are carefully selected to assist children in developing their counting skills.
 
+<img src="./mainpage.png" alt="Main Page" width="220" >
+
+<img src="./gamepage.png" alt="Game Page" width="220" >
 
 ### Usage in Android Studio
 

@@ -22,7 +22,6 @@ This project requires the following:
 The game's design includes colorful and engaging visual motifs to capture children's attention and facilitate their understanding. The arrangement and number of cards are carefully selected to assist children in developing their counting skills.
 
 
-
 ### Usage in Android Studio
 
 - Download or clone this project.
@@ -32,7 +31,13 @@ The game's design includes colorful and engaging visual motifs to capture childr
 
 ## Contributions
 
-- Contributions are always welcome. Before making significant changes, please open an issue in the discussion section.
+If you would like to contribute to the Triangle Counter Game, please follow these steps:
+
+- Fork this repository.
+- Create a branch for new features or fixes.
+- Commit your changes.
+- Send a pull request to the forked repository.
+- Your changes will be reviewed and, once accepted, merged into the main project.
 
 ## License
 

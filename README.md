@@ -12,7 +12,7 @@ This project requires the following:
 - Android Studio 4.0 or higher
 - Java programming language
 - An Android device or emulator
-- Build the project if necessary and run it on an emulator or an Android device.
+
 ## Functionality
 
 - Players are presented with a visual motif where a certain number of triangles are present.
@@ -29,7 +29,7 @@ The game's design includes colorful and engaging visual motifs to capture childr
 - Open Android Studio and select "Open" from the "File" menu.
 - Choose the project directory and click "OK."
 - Build the project if necessary and run it on an emulator or an Android device.
-- 
+
 ## Contributions
 
 - Contributions are always welcome. Before making significant changes, please open an issue in the discussion section.
